@@ -11,8 +11,8 @@
 const cohort = "India 2023"
 // console.log(cohort.split(" "))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: "India 2023"
+// b) Verify and explain: "India", "2023" each word became an element in the array
 
 // --------------------2) What will this log?
 
@@ -21,16 +21,16 @@ const greeter = (name) => {
 }
 // console.log(greeter("LEARN Student"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: Hello, LEARN Student!
+// b) Verify and explain: Hello, LEARN Student! 
 
 // --------------------3) What will this log?
 
 const onlyOdds = [11, 12, 13, 14, 15].filter((number) => number % 2 !== 0)
 // console.log(onlyOdds)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: it will filter odd number only
+// b) Verify and explain: 11, 13, 15, The filter method is used to create a new array with elements that satisfy a certain condition which is only odd numbers.
 
 // --------------------4) What will this log?
 
@@ -42,8 +42,8 @@ const myCodingSkills = {
 }
 // console.log(myCodingSkills.languages[0])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: languages/index 0 = JavaScript
+// b) Verify and explain: JavaScript, (myCodingSkills.languages[0]) myCodingSkills => languages => [0] meaning the Zero index and that is JavaScript. Follow the drip.  
 
 // --------------------5) What will this log?
 
@@ -57,5 +57,6 @@ class Learn {
 const learnStudent = new Learn("George")
 // console.log(learnStudent)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: George will appear somewhere
+// b) Verify and explain: Learn { student: 'George', cohort: 'India', year: 2023 } Learn with brackets around (name) and the const having parent-heses (lol) and quotation marks around George. 
+

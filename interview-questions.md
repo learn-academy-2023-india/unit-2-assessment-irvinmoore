@@ -16,19 +16,19 @@ Researched answer:
 
 2. What is the difference between an object and a class?
 
-Your answer:
+Your answer: Class is a detailed description and Object is an instance of a class.
 
-Researched answer:
+Researched answer: A class is a blueprint or a template for creating objects. It defines a type of object, specifying what attributes (properties) and behaviors (methods) an object created from the class should have. An object is an instance of a class. It is a concrete entity created from the class blueprint, and it has specific values for its properties.
 
 3. What is iteration?
 
-Your answer:
+Your answer: Something that is repeated over and over and over again. 
 
-Researched answer:
+Researched answer: A computational process in which a series of operations is repeated a number of times.
 
 4. STRETCH: What is hoisting in JavaScript?
 
-Researched answer:
+Researched answer: In JavaScript, hoisting is a behavior where variable and function declarations are moved to the top of their containing scope during the compilation phase, before the code is executed. This means that you can use a variable or a function before it's declared in your code.
 
 ## Looking Ahead: Terms for Next Unit
 
